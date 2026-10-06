@@ -1,2 +1,5 @@
 1. Class and Objects
 2.class atributes, functions or methods
+3.end to end chatbook
+4.encapsulation
+5.geter setter
